@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NintendoWareIntermediateFile>
+	<GraphicsContentCtr Version="1.3.0" Namespace="">
+		<EditData>
+			<MetaData>
+				<Key>MetaData</Key>
+				<Create Author="Jalm" Date="2024-04-18T15:09:48" Source="">
+					<ToolDescriptions Name="NW4C_Export for Maya 2014 x64" Version="1.3.0" />
+				</Create>
+				<Modify Date="2024-04-18T15:17:34">
+					<ToolDescriptions Name="NintendoWare Creative Studio For Banner." Version="1.3.1.42554" />
+				</Modify>
+			</MetaData>
+		</EditData>
+		<Textures>
+			<ImageTextureCtr Name="" Width="16" Height="16" MipmapSize="1" Path="DummyPath" Encoding="Base64" Format="Rgb565">
+				<Images>
+					<PixelBasedImageCtr>nvee9573nvee9573nvee9573nvee9573nvee9573nvc85zznPOc85zznPOc85zznPOc85zznPOc85zznPOc85/dk92T3ZPdk92T3ZPdk92T3ZPdk92T3ZPdk92T3ZPdkziLOIs4iziLOIs4iziLOIs4iziLOIs4iziLOIs4iziKiEKIQohCiEKIQohCiEKIQohCiEKIQohCiEKIQohCiEI5zjnOOc45zjnOOc45zjnOOc45zjnOOc45zjnOOc45zuYW5hbmFuYW5hbmFuYW5hbmFuYW5hbmFuYW5hbmFuYX3vfe99733vfe99733vfe99733vfe99733vfe99733vZP/k/+T/5P/k/+T/5P/k/+T/5P/k/+T/5P/k/+T/5P/ZeFl4WXhZeFl4WXhZeFl4WXhZeFl4WXhZeFl4WXhZeH///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8=</PixelBasedImageCtr>
+				</Images>
+			</ImageTextureCtr>
+		</Textures>
+	</GraphicsContentCtr>
+</NintendoWareIntermediateFile>
